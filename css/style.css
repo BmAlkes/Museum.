@@ -85,7 +85,7 @@ section#galeria a{
     background: url(../img/fundo-foto.png) no-repeat;
     float: left;
     padding: 20px;
-    margin: 10px 0 0 20px;
+    margin: 2px 0 0 10px;
 }
 section#galeria img{
       margin-top: 2px;
